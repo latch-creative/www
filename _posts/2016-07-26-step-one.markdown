@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Step One"
+date:   2016-07-26 23:23:04 -0700
+categories: update
+---
+Today is an exciting for Latch. We have finally submitted our first app to the app store.
+
+Finally taking the first step and showing the world means a lot when you're first starting out. We thank everyone who has helped us along the way. We will update this post when we go live on the App Store.

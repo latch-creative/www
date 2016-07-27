@@ -1,0 +1,28 @@
+---
+layout: nowrap
+---
+
+<div class="home">
+  <div class="home-splash" style="background: url({{site.baseurl}}/assets/{{site.splash_image}})">
+    <h2>Latch Creative</h2>
+    <span>DESIGN &mdash; BUILD &mdash; INNOVATE</span>
+  </div>
+      <div class="page-content">
+      <div class="wrapper">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+      </div>
+    </div>
+
+</div>

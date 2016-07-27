@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latch Creative</title>
+    <description>Latch Creative is a creative agency that builds awesome projects for awesome companies. We develop mobile apps, websites and more.
+</description>
+    <link>https://latchcreative.co/</link>
+    <atom:link href="https://latchcreative.co/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 Jul 2016 00:55:29 -0700</pubDate>
+    <lastBuildDate>Wed, 27 Jul 2016 00:55:29 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Step One</title>
+        <description>&lt;p&gt;Today is an exciting for Latch. We have finally submitted our first app to the app store.&lt;/p&gt;
+
+&lt;p&gt;Finally taking the first step and showing the world means a lot when you’re first starting out. We thank everyone who has helped us along the way. We will update this post when we go live on the App Store.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Jul 2016 23:23:04 -0700</pubDate>
+        <link>https://latchcreative.co/update/2016/07/26/step-one.html</link>
+        <guid isPermaLink="true">https://latchcreative.co/update/2016/07/26/step-one.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
